@@ -6,3 +6,4 @@ Query Stackoverflow dataset from StackExchange
     from posts
     where posttypeid = 1
     order by id;
+ Link: https://meta.stackexchange.com/questions/2677/database-schema-documentation-for-the-public-data-dump-and-sede
